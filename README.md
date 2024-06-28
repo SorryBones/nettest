@@ -1,4 +1,5 @@
 +~+~+~+~+~+~+~+~+~+~ NetTest ~+~+~+~+~+~+~+~+~+~+
+
 Small program to send chat messages over a network using peer-2-peer connection.
 WARNING: This program uses your local IP to connect a client. Only share this information with someone you already trust.
 
